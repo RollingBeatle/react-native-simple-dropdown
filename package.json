@@ -1,0 +1,34 @@
+{
+  "name": "react-native-simple-dropdown",
+  "version": "1.0.0",
+  "description": "A simple dropdown for react native",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.60.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RollingBeatle/react-native-simple-dropdown.git"
+  },
+  "keywords": [
+    "react-native",
+    "dropdown",
+    "iOS",
+    "android",
+    "responsive",
+    "component"
+  ],
+  "author": "RollingBeatle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RollingBeatle/react-native-simple-dropdown/issues"
+  },
+  "homepage": "https://github.com/RollingBeatle/react-native-simple-dropdown#readme",
+  "dependencies": {
+    "react-native-vector-icons": "^9.2.0"
+  }
+}
